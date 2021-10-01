@@ -1,6 +1,4 @@
-# KESPRINT
-
-## Current members
+### Current members
 
 - Simon Albrecht
 - Oscar Barragán
