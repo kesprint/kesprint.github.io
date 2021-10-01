@@ -1,3 +1,5 @@
+![](Kesprinter-166k.png)
+
 ## KESPRINT
 
 ### Current members
