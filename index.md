@@ -2,46 +2,46 @@
 
 ## Current members
 
-Simon Albrecht
-Oscar Barragán
-Paul Beck
-Juan Cabrera
-Ilaria Carleo
-William D. (Bill) Cochran
-Szilard Csizmadia
-Fei Dai
-Hans Deeg
-Jerome de Leon
-Michael Endl
-Anders Erikson
-Massimiliano Esposito
-Malcolm Fridlund
-Davide Gandolfi
-Iskra Georgieva
-Sascha Grziwa
-Eike W. Guenther
-Artie P. Hatzes
-Teruyuki Hirano
-Marshall C. Johnson
-Petr Kabath
-Peter Klagyivik
-Emil Knudstrup
-Judith Korth
-Kristine Lam
-John Livingston
-Rafael Luque
-Savita Mathur
-Norio Narita
-Grzegorz Nowak
-Enric Palle
-Martin Pätzold
-Carina M. Persson
-Heike Rauer
-Seth Redfield
-Luisa Maria Serrano
-Marek Skarka
-Alexis M. S. Smith
-Vincent Van Eylen
+- Simon Albrecht
+- Oscar Barragán
+- Paul Beck
+- Juan Cabrera
+- Ilaria Carleo
+- William D. (Bill) Cochran
+- Szilard Csizmadia
+- Fei Dai
+- Hans Deeg
+- Jerome de Leon
+- Michael Endl
+- Anders Erikson
+- Massimiliano Esposito
+- Malcolm Fridlund
+- Davide Gandolfi
+- Iskra Georgieva
+- Sascha Grziwa
+- Eike W. Guenther
+- Artie P. Hatzes
+- Teruyuki Hirano
+- Marshall C. Johnson
+- Petr Kabath
+- Peter Klagyivik
+- Emil Knudstrup
+- Judith Korth
+- Kristine Lam
+- John Livingston
+- Rafael Luque
+- Savita Mathur
+- Norio Narita
+- Grzegorz Nowak
+- Enric Palle
+- Martin Pätzold
+- Carina M. Persson
+- Heike Rauer
+- Seth Redfield
+- Luisa Maria Serrano
+- Marek Skarka
+- Alexis M. S. Smith
+- Vincent Van Eylen
 
 <!-- ## Welcome to GitHub Pages
 
