@@ -1,4 +1,4 @@
-## Telescope Resources
+## Resources
 
 KESPRINT does not have any guaranteed time for the follow up efforts of planet candidates, and relies on open time applications. Nevertheless, our team has an excellent track record in this respect, and we regularly obtain time for:
 
