@@ -4,9 +4,11 @@
 
 [About](about.md)
 
-[Current Members](members.md)
+[Members](members.md)
 
 [Publications](pubs.md)
+
+[Resources](resources.md)
 
 ![](logos.png)
 
