@@ -2,6 +2,8 @@
 
 <!-- ## KESPRINT -->
 
+[About](about.md)
+
 [Current Members](members.md)
 
 [Publications](pubs.md)
