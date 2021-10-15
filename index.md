@@ -2,13 +2,7 @@
 
 <!-- ## KESPRINT -->
 
-[About](about.md)
-
-[Members](members.md)
-
-[Publications](pubs.md)
-
-[Resources](resources.md)
+[About](about.md) — [Members](members.md) — [Publications](pubs.md) — [Resources](resources.md)
 
 ![](logos.png)
 
