@@ -1,5 +1,3 @@
-### Current members
-
 - Simon Albrecht
 - Oscar Barragán
 - Paul Beck
