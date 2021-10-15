@@ -1,4 +1,6 @@
-### The KESPRINT Consortium is a multi-national collaboration for the discovery, confirmation and characterization of planet candidates from the K2 space mission. Given the limited amount of telescope time, our natural focus is the detection of the most exciting objects, rather than attempting to provide complete catalogues.
+## About
+
+The KESPRINT Consortium is a multi-national collaboration for the discovery, confirmation and characterization of planet candidates from the K2 space mission. Given the limited amount of telescope time, our natural focus is the detection of the most exciting objects, rather than attempting to provide complete catalogues.
 
 We have three main scientific goals:
 

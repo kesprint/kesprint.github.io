@@ -1,3 +1,5 @@
+## Publications
+
  - [Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V/abstract)
  - [Hot planets around cool stars – two short-period mini-Neptunes transiting the late K-dwarf TOI-1260](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4684G/abstract)
  - [TOI-220 b: a warm sub-Neptune discovered by TESS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3361H/abstract)
