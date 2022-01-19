@@ -4,7 +4,9 @@
 
 <!-- [About](about.md) — [Members](members.md) — [Publications](pubs.md) — [Resources](resources.md) -->
 
-We are an international collaboration dedicated to the discovery and characterization of exoplanets using ground-based telescopes. We do not have any guaranteed time for follow-up observations of planet candidates, and relies on open time applications. Nevertheless, our team has an excellent track record in this respect, and we regularly obtain time for: high resolution imaging (AO188@Subaru Telescope, NESSI@WIYN, and FC@TCS); seeing limited photometry (MUSCAT@Okayima, MUSCAT2@TCS, and CAMELOT@IAC80); reconnaissance spectroscopy and moderate-precision radial velocity (FIES@NOT, and Tull@2.7m-McDonald Observatory); highly stable spectrographs (HARPS@3.6m-ESO, HARPS-N@TNG, HDS@SUBARU, CARMENES@CaHa, and HIRES@Keck).
+## [Publications](pubs.md)
+
+We are an international collaboration dedicated to the discovery and characterization of exoplanets using ground-based telescopes. We do not have any guaranteed time for follow-up observations of planet candidates, and relies on open time applications. Nevertheless, our team has an excellent track record in this respect, and we regularly obtain time for high resolution imaging, seeing limited photometry, reconnaissance spectroscopy, moderate-precision radial velocity monitoring, and highly stable spectrographs.
 
 ## Members
 
@@ -48,8 +50,6 @@ We are an international collaboration dedicated to the discovery and characteriz
 - Marek Skarka
 - Alexis M. S. Smith
 - Vincent Van Eylen
-
-## [Publications](pubs.md)
 
 ![](logos.png)
 
