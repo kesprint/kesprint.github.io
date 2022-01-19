@@ -1,4 +1,4 @@
-![](Kesprinter-166k.png)
+<!-- ![](Kesprinter-166k.png) -->
 
 <!-- ## KESPRINT -->
 
