@@ -56,6 +56,11 @@ KESPRINT is an international consortium of scientists devoted to the detection a
 - Alexis M. S. Smith
 - Vincent Van Eylen -->
 
+<!-- to convert above list to multi column html paste into tmp file and run
+cat tmp | awk -F"- " '{print "<td>"$2"</td>"}'
+then manually insert </tr><tr> every 3 names for 3 columns
+ -->
+ 
 <table border="0">
 <!--  <tr>
     <td><b style="font-size:30px">Title</b></td>
