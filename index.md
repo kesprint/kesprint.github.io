@@ -4,9 +4,11 @@
 
 <!-- [About](about.md) — [Members](members.md) — [Publications](pubs.md) — [Resources](resources.md) -->
 
-## [Publications](pubs.md)
+## About
 
 We are an international collaboration dedicated to the discovery and characterization of exoplanets using ground-based telescopes. We do not have any guaranteed time for follow-up observations of planet candidates, and relies on open time applications. Nevertheless, our team has an excellent track record in this respect, and we regularly obtain time for high resolution imaging, seeing limited photometry, reconnaissance spectroscopy, moderate-precision radial velocity monitoring, and highly stable spectrographs.
+
+## [Publications](pubs.md)
 
 ## Members
 
