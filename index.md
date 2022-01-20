@@ -6,13 +6,16 @@
 
 ## About
 
-We are an international collaboration dedicated to the discovery and characterization of exoplanets using ground-based telescopes. We do not have any guaranteed time for follow-up observations of planet candidates, and thus we rely on open time applications. Nevertheless, our team has an excellent track record in this regard, and we regularly obtain time for high resolution imaging, seeing limited photometry, reconnaissance spectroscopy, moderate-precision radial velocity monitoring, and highly stable spectrographs.
+<!-- We are an international collaboration dedicated to the discovery and characterization of exoplanets using ground-based telescopes. We do not have any guaranteed time for follow-up observations of planet candidates, and thus we rely on open time applications. Nevertheless, our team has an excellent track record in this regard, and we regularly obtain time for high resolution imaging, seeing limited photometry, reconnaissance spectroscopy, moderate-precision radial velocity monitoring, and highly stable spectrographs.
+ -->
 
+KESPRINT is an international consortium of scientists devoted to the detection and characterization of transiting exoplanets found by space-based missions, and was formed from the 2017 merger of the KEST and ESPRINT teams. KESPRINT brings together scientists with a wide range of expertise in light curve analysis, transit detection, radial velocity measurements, spectral analysis, and theoretical interpretation in order to detect, characterize, and understand exoplanetary systems. We are organised into several working groups, namely planet detection, follow-up observations, modelling, and atmospheric characterization. Our Steering Committee is elected annually and is currently chaired by Judith Korth.
+ 
 ## [Publications](pubs.md)
 
 ## Members
 
-- Simon Albrecht
+<!-- - Simon Albrecht
 - Oscar Barragán
 - Paul Beck
 - Juan Cabrera
@@ -51,7 +54,82 @@ We are an international collaboration dedicated to the discovery and characteriz
 - Luisa Maria Serrano
 - Marek Skarka
 - Alexis M. S. Smith
-- Vincent Van Eylen
+- Vincent Van Eylen -->
+
+<table border="0">
+<!--  <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr> -->
+ <tr>
+   <td>Simon Albrecht</td>
+   <td>Oscar Barragán</td>
+   <td>Paul Beck</td>
+ </tr>
+ <tr>
+   <td>Juan Cabrera</td>
+   <td>Ilaria Carleo</td>
+   <td>William D. (Bill) Cochran</td>
+ </tr>
+ <tr>
+   <td>Szilard Csizmadia</td>
+   <td>Fei Dai</td>
+   <td>Hans Deeg</td>
+ </tr>
+ <tr>
+   <td>Jerome de Leon</td>
+   <td>Michael Endl</td>
+   <td>Anders Erikson</td>
+ </tr>
+ <tr>
+   <td>Massimiliano Esposito</td>
+   <td>Malcolm Fridlund</td>
+   <td>Davide Gandolfi</td>
+ </tr>
+ <tr>
+   <td>Iskra Georgieva</td>
+   <td>Sascha Grziwa</td>
+   <td>Eike W. Guenther</td>
+ </tr>
+ <tr>
+   <td>Artie P. Hatzes</td>
+   <td>Teruyuki Hirano</td>
+   <td>Marshall C. Johnson</td>
+ </tr>
+ <tr>
+   <td>Petr Kabath</td>
+   <td>Peter Klagyivik</td>
+   <td>Emil Knudstrup</td>
+ </tr>
+ <tr>
+   <td>Judith Korth</td>
+   <td>Kristine Lam</td>
+   <td>John Livingston</td>
+ </tr>
+ <tr>
+   <td>Rafael Luque</td>
+   <td>Savita Mathur</td>
+   <td>Norio Narita</td>
+ </tr>
+ <tr>
+   <td>Grzegorz Nowak</td>
+   <td>Enric Palle</td>
+   <td>Martin Pätzold</td>
+ </tr>
+ <tr>
+   <td>Carina M. Persson</td>
+   <td>Heike Rauer</td>
+   <td>Seth Redfield</td>
+ </tr>
+ <tr>
+   <td>Luisa Maria Serrano</td>
+   <td>Marek Skarka</td>
+   <td>Alexis M. S. Smith</td>
+ </tr>
+ <tr>
+   <td>Vincent Van Eylen</td>
+ </tr>
+</table>
 
 ![](logos.png)
 
