@@ -114,24 +114,25 @@ then manually insert </tr><tr> every 3 names for 3 columns
  <tr>
    <td>Rafael Luque</td>
    <td>Savita Mathur</td>
-   <td>Norio Narita</td>
+   <td>Felipe Murgas</td>
  </tr>
  <tr>
+   <td>Norio Narita</td>
    <td>Grzegorz Nowak</td>
    <td>Enric Palle</td>
-   <td>Martin Pätzold</td>
  </tr>
  <tr>
+   <td>Martin Pätzold</td>
    <td>Carina M. Persson</td>
    <td>Heike Rauer</td>
-   <td>Seth Redfield</td>
  </tr>
  <tr>
+   <td>Seth Redfield</td>
    <td>Luisa Maria Serrano</td>
    <td>Marek Skarka</td>
-   <td>Alexis M. S. Smith</td>
  </tr>
  <tr>
+   <td>Alexis M. S. Smith</td>
    <td>Vincent Van Eylen</td>
  </tr>
 </table>
