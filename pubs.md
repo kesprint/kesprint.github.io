@@ -1,4 +1,4 @@
-## Publications
+## [Publications](https://ui.adsabs.harvard.edu/public-libraries/ZQ_rCQrGTjiiSEL3YH_dXw)
 
 - [K2-99 revisited: a non-inflated warm Jupiter, and a temperate giant planet on a 522-d orbit around a subgiant](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3152S/abstract)
 - [GJ 367b: A dense, ultrashort-period sub-Earth planet transiting a nearby red dwarf star](https://ui.adsabs.harvard.edu/abs/2021Sci...374.1271L/abstract)
