@@ -1,5 +1,7 @@
 ## [Publications](https://ui.adsabs.harvard.edu/public-libraries/ZQ_rCQrGTjiiSEL3YH_dXw)
 
+- [TOI-1268b: the youngest hot Saturn-mass transiting exoplanet](https://arxiv.org/abs/2201.13341)
+- [The young HD 73583 planetary system: Two 10 Earth mass mini-Neptunes transiting a young, bright, and active K dwarf](https://arxiv.org/abs/2110.13069)
 - [K2-99 revisited: a non-inflated warm Jupiter, and a temperate giant planet on a 522-d orbit around a subgiant](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3152S/abstract)
 - [GJ 367b: A dense, ultrashort-period sub-Earth planet transiting a nearby red dwarf star](https://ui.adsabs.harvard.edu/abs/2021Sci...374.1271L/abstract)
 - [37 new validated planets in overlapping K2 campaigns](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract)
