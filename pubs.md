@@ -1,5 +1,6 @@
 ## [Publications](https://ui.adsabs.harvard.edu/public-libraries/ZQ_rCQrGTjiiSEL3YH_dXw)
-
+- [TOI-1670 b and c: An Inner Sub-Neptune with an Outer Warm Jupiter Unlikely to have Originated from High-Eccentricity Migration](https://arxiv.org/abs/2203.04334)
+- [A Radial Velocity Study of the Planetary System of Pi Mensae: Improved Planet Parameters for PI Mensae c and a Third Planet on a 125-d Orbit](https://arxiv.org/abs/2203.01018)
 - [TOI-1268b: the youngest hot Saturn-mass transiting exoplanet](https://arxiv.org/abs/2201.13341)
 - [The young HD 73583 planetary system: Two 10 Earth mass mini-Neptunes transiting a young, bright, and active K dwarf](https://arxiv.org/abs/2110.13069)
 - [K2-99 revisited: a non-inflated warm Jupiter, and a temperate giant planet on a 522-d orbit around a subgiant](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3152S/abstract)
