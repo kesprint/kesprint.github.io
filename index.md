@@ -137,7 +137,7 @@ then manually insert </tr><tr> every 3 names for 3 columns
  </tr>
 </table>
 
-![](logos.png)
+![](assets/logos.png)
 
 <!-- ## Welcome to GitHub Pages
 
