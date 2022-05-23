@@ -4,14 +4,14 @@
 
 <!-- [About](about.md) — [Members](members.md) — [Publications](pubs.md) — [Resources](resources.md) -->
 
+## [Publications](pubs.md)
+
 ## About
 
 <!-- We are an international collaboration dedicated to the discovery and characterization of exoplanets using ground-based telescopes. We do not have any guaranteed time for follow-up observations of planet candidates, and thus we rely on open time applications. Nevertheless, our team has an excellent track record in this regard, and we regularly obtain time for high resolution imaging, seeing limited photometry, reconnaissance spectroscopy, moderate-precision radial velocity monitoring, and highly stable spectrographs.
  -->
 
 KESPRINT is an international consortium of scientists devoted to the detection and characterization of transiting exoplanets found by space-based missions, and was formed from the 2017 merger of the KEST and ESPRINT teams. KESPRINT brings together scientists with a wide range of expertise in light curve analysis, transit detection, radial velocity measurements, spectral analysis, and theoretical interpretation in order to detect, characterize, and understand exoplanetary systems. We are organised into several working groups, namely planet detection, follow-up observations, modelling, and atmospheric characterization. Our Steering Committee is elected annually and is currently chaired by [Hans Deeg](mailto:hdeeg@iac.es).
- 
-## [Publications](pubs.md)
 
 ## Members
 
