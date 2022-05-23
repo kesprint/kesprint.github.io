@@ -4,7 +4,7 @@
 - [A Radial Velocity Study of the Planetary System of Pi Mensae: Improved Planet Parameters for PI Mensae c and a Third Planet on a 125-d Orbit](https://arxiv.org/abs/2203.01018)
 - [A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system](https://ui.adsabs.harvard.edu/abs/2022NatAs.tmp...95S/abstract)
 - [TOI-1268b: the youngest hot Saturn-mass transiting exoplanet](https://arxiv.org/abs/2201.13341)
-- [The young HD 73583 planetary system: Two 10 Earth mass mini-Neptunes transiting a young, bright, and active K dwarf]([https://arxiv.org/abs/2110.13069](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..699B/abstract)
+- [The young HD 73583 planetary system: Two 10 Earth mass mini-Neptunes transiting a young, bright, and active K dwarf](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..699B/abstract)
 - [K2-99 revisited: a non-inflated warm Jupiter, and a temperate giant planet on a 522-d orbit around a subgiant](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.3152S/abstract)
 - [GJ 367b: A dense, ultrashort-period sub-Earth planet transiting a nearby red dwarf star](https://ui.adsabs.harvard.edu/abs/2021Sci...374.1271L/abstract)
 - [37 new validated planets in overlapping K2 campaigns](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract)
