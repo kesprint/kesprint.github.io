@@ -1,6 +1,6 @@
 ## [Publications](https://ui.adsabs.harvard.edu/public-libraries/1kYiVCkNQMih3Y87G3PDCw)
 - [The TESS-Keck Survey. XI. Mass Measurements for Four Transiting Sub-Neptunes Orbiting K Dwarf TOI-1246](https://ui.adsabs.harvard.edu/abs/2022AJ....163..293T/abstract)
-- [TOI-2046b, TOI-1181b and TOI-1516b, three new hot Jupiters from TESS: planets orbiting a young star, a subgiant and a normal star](https://ui.adsabs.harvard.edu/abs/2022arXiv220501860K/abstract)
+- [TOI-2046b, TOI-1181b and TOI-1516b, three new hot Jupiters from TESS: planets orbiting a young star, a subgiant and a normal star](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.5955K/abstract)
 - [TOI-1670 b and c: An Inner Sub-Neptune with an Outer Warm Jupiter Unlikely to have Originated from High-Eccentricity Migration](https://arxiv.org/abs/2203.04334)
 - [A Radial Velocity Study of the Planetary System of Pi Mensae: Improved Planet Parameters for PI Mensae c and a Third Planet on a 125-d Orbit](https://arxiv.org/abs/2203.01018)
 - [A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system](https://ui.adsabs.harvard.edu/abs/2022NatAs.tmp...95S/abstract)
