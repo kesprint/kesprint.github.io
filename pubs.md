@@ -1,4 +1,6 @@
 ## [Publications](https://ui.adsabs.harvard.edu/public-libraries/1kYiVCkNQMih3Y87G3PDCw)
+- [Precise mass determination for the keystone sub-Neptune planet transiting the mid-type M dwarf G 9-40](https://ui.adsabs.harvard.edu/abs/2022arXiv220807287L/abstract)
+- [TOI-2196 b: Rare planet in the hot Neptune desert transiting a G-type star](https://ui.adsabs.harvard.edu/abs/2022arXiv220805797P/abstract)
 - [TOI-2046b, TOI-1181b and TOI-1516b, three new hot Jupiters from TESS: planets orbiting a young star, a subgiant and a normal star](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.5955K/abstract)
 - [The TESS-Keck Survey. XI. Mass Measurements for Four Transiting Sub-Neptunes Orbiting K Dwarf TOI-1246](https://ui.adsabs.harvard.edu/abs/2022AJ....163..293T/abstract)
 - [TOI-1268b: the youngest hot Saturn-mass transiting exoplanet](https://ui.adsabs.harvard.edu/abs/2022A&A...662A.107S/abstract)
