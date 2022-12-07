@@ -45,6 +45,7 @@ KESPRINT is an international consortium of scientists devoted to the detection a
 - Luisa Maria Serrano
 - Marek Skarka
 - Alexis M. S. Smith
+- Ján Šubjak
 - Vincent Van Eylen -->
 
 <!-- to convert above list to multi column html paste into tmp file and run
