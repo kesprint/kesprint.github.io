@@ -35,6 +35,7 @@ KESPRINT is an international consortium of scientists devoted to the detection a
 - John Livingston
 - Rafael Luque
 - Savita Mathur
+- Felipe Murgas
 - Norio Narita
 - Grzegorz Nowak
 - Enric Palle
@@ -125,6 +126,7 @@ then manually insert </tr><tr> every 3 names for 3 columns
  </tr>
  <tr>
    <td>Alexis M. S. Smith</td>
+   <td>Ján Šubjak</td>
    <td>Vincent Van Eylen</td>
  </tr>
 </table>
