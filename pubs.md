@@ -1,4 +1,5 @@
-## Publications - click [here](https://ui.adsabs.harvard.edu/public-libraries/1kYiVCkNQMih3Y87G3PDCw) for full ADS list
+## Publications - click [here](https://ui.adsabs.harvard.edu/public-libraries/1kYiVCkNQMih3Y87G3PDCw) for ADS list
+- [Radial velocity confirmation of a hot super-Neptune discovered by TESS with a warm Saturn-mass companion](https://ui.adsabs.harvard.edu/abs/2022arXiv221117035K/abstract)
 - [HD 20329b: An ultra-short-period planet around a solar-type star found by TESS](https://ui.adsabs.harvard.edu/abs/2022arXiv221102547M/abstract)
 - [HD 191939 revisited: New and refined planet mass determinations, and a new planet in the habitable zone](https://ui.adsabs.harvard.edu/abs/2022arXiv221100667O/abstract)
 - [TOI-969: a late-K dwarf with a hot mini-Neptune in the desert and an eccentric cold Jupiter](https://ui.adsabs.harvard.edu/abs/2022arXiv221008996L/abstract)
