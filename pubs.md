@@ -1,4 +1,9 @@
 ## Publications - click [here](https://ui.adsabs.harvard.edu/public-libraries/1kYiVCkNQMih3Y87G3PDCw) for ADS list
+- [TOI-1416: A system with a super-Earth planet with a 1.07 d period](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..12D/abstract)
+- [Company for the ultra-high density, ultra-short period sub-Earth GJ 367 b: discovery of two additional low-mass planets at 11.5 and 34 days](https://ui.adsabs.harvard.edu/abs/2023arXiv230709181G/abstract)
+- [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.183C/abstract)
+- [TOI-1130: A photodynamical analysis of a hot Jupiter in resonance with an inner low-mass planet](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.115K/abstract)
+- [TOI-733 b: A planet in the small-planet radius valley orbiting a Sun-like star](https://ui.adsabs.harvard.edu/abs/2023A&A...674A.117G/abstract)
 - [Radial velocity confirmation of a hot super-Neptune discovered by TESS with a warm Saturn-mass companion](https://ui.adsabs.harvard.edu/abs/2022arXiv221117035K/abstract)
 - [HD 20329b: An ultra-short-period planet around a solar-type star found by TESS](https://ui.adsabs.harvard.edu/abs/2022arXiv221102547M/abstract)
 - [HD 191939 revisited: New and refined planet mass determinations, and a new planet in the habitable zone](https://ui.adsabs.harvard.edu/abs/2022arXiv221100667O/abstract)
