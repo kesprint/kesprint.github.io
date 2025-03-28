@@ -1,4 +1,13 @@
 ## Publications - click [here](https://ui.adsabs.harvard.edu/public-libraries/1kYiVCkNQMih3Y87G3PDCw) for ADS list
+- [TOI-2458 b: A mini-Neptune consistent with in situ hot Jupiter formation](https://ui.adsabs.harvard.edu/abs/2025A&A...693A.235S/abstract)
+- [Radii, masses, and transit-timing variations of the three-planet system orbiting the naked-eye star TOI-396](https://ui.adsabs.harvard.edu/abs/2025A&A...693A..90B/abstract)
+- [An ultra-short-period super-Earth with an extremely high density and an outer companion](https://ui.adsabs.harvard.edu/abs/2024NatSR..1427219L/abstract)
+- [Five new eclipsing binaries with low-mass companions](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.168L/abstract)
+- [Mass determination of two Jupiter-sized planets orbiting slightly evolved stars: TOI-2420 b and TOI-2485 b](https://ui.adsabs.harvard.edu/abs/2024A&A...690A..18C/abstract)
+- [TOI-757 b: an eccentric transiting mini-Neptune on a 17.5-d orbit](https://ui.adsabs.harvard.edu/abs/2024MNRAS.533....1A/abstract)
+- [TOI-1408: Discovery and Photodynamical Modeling of a Small Inner Companion to a Hot Jupiter Revealed by Transit Timing Variations](https://ui.adsabs.harvard.edu/abs/2024ApJ...971L..28K/abstract)
+- [TOI-544 b: a potential water-world inside the radius valley in a two-planet system](https://ui.adsabs.harvard.edu/abs/2024MNRAS.52711138O/abstract)
+- [A resonant sextuplet of sub-Neptunes transiting the bright star HD 110067](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L/abstract)
 - [Company for the Ultra-high Density, Ultra-short Period Sub-Earth GJ 367 b: Discovery of Two Additional Low-mass Planets at 11.5 and 34 Days](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..12D/abstract)
 - [TOI-1416: A system with a super-Earth planet with a 1.07 d period](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..12D/abstract)
 - [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.183C/abstract)
